@@ -1,4 +1,4 @@
-# facebook-react
+# Facebook layout with ReactJS and Flexbox
 
 * Facebook layout builded with pure HTML and CSS using ReactJS.
 

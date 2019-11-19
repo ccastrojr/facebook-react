@@ -1,0 +1,8 @@
+azul-header: #4267B2
+azul-icons: #1A2947
+azul-font: #385898
+body: #E9EBEE
+sections: #FFF
+contacts-dividir: #4A4A4A
+buttons: #F5F6F7
+red-notifications: #FA3E3E

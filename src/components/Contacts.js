@@ -62,7 +62,7 @@ class Contacts extends Component {
             avatar: 'https://i.pravatar.cc/150?img=14'
          },
          {
-            name: 'Thais Araújo',
+            name: 'Thais Ferreira',
             avatar: 'https://i.pravatar.cc/150?img=15'
          },
          {

@@ -30,7 +30,6 @@ function PostComments({ comments }) {
 }
 
 function PostItem({ author, date, content, comments }) {
-   console.log(comments)
    return (
       <div className="post">
          <HeaderPost author={author} date={date} />
